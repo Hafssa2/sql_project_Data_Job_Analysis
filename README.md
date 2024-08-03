@@ -272,9 +272,3 @@ From the analysis, several general insights emerged:
 
 ### Closing Thoughts
 This project improved my SQL skills and offered insights into the data analyst job market. The analysis helps prioritize skill development and job search efforts, guiding aspiring data analysts to focus on high-demand, high-salary skills. It underscores the importance of continuous learning and adapting to trends in data analytics.
-<<<<<<< HEAD
-
-
-
-=======
->>>>>>> 57fc6f50a39a8bb028fd18f95a1435af5a671f44
